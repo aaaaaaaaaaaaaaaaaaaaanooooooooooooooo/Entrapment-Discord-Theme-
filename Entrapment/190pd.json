@@ -5,10 +5,10 @@
         "version": "1.0.0"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/background.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Entrapment\/backgroundimg\/background.jpg"
     },
     "fonts": {
-        "*": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Alepo.otf"
+        "*": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Entrapment\/Alepo.otf"
     },
     "simple_colors": {
         "mention_highlight": 619380991,
