@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "クミ#3388",
+        "name": "Entrapment",
+        "version": "3.1.5"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/945539436895162398\/1000176184077848596\/1655669943760.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/793275228498821210\/998968353085472778\/Alepo.otf"
+    },
+    "simple_colors": {
+        "background": -11534336,
+        "background_secondary": -10092544,
+        "mention_highlight": -1530724097,
+        "accent": -3857629,
+        "active_channel": -5502711,
+        "input_background": -8126464,
+        "blocked_bg": -16777216
+    },
+    "colors": {
+        "link": -65536
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
