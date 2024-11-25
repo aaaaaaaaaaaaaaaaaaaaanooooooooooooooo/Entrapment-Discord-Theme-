@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "author": "クミ#3388",
+        "name": "190pd",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/background.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Alepo.otf"
+    },
+    "simple_colors": {
+        "mention_highlight": 619380991,
+        "input_background": -12254364,
+        "active_channel": -1048576,
+        "accent": -10812071,
+        "statusbar": -10746105,
+        "blocked_bg": -9565943,
+        "background": -12844028,
+        "background_secondary": -8780025
+    },
+    "colors": {
+        "link": -7077633,
+        "accent_material_dark": -13369344,
+        "background_material_dark": -15400703,
+        "design_dark_default_color_background": -10156538,
+        "abc_tint_switch_track": -8650238,
+        "brand_new_430": -10943998,
+        "abc_btn_colored_borderless_text_material": -4194049,
+        "background_floating_material_dark": -10681083,
+        "chat_send_btn_bg_dark": -4194049,
+        "abc_secondary_text_material_dark": -10747904,
+        "button_material_dark": -4849409,
+        "notification_icon_bg_color": -5766913,
+        "ripple_material_dark": -2359041,
+        "primary_500": -9369849,
+        "primary_dark": -12582398,
+        "primary_dark_100": -12255232,
+        "primary_dark_130": -11729659,
+        "abc_tint_default": -8909101
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -14220757,
+        "drawable_button_brand_neutral": -6684417,
+        "drawable_open_folder_dark": -12648191,
+        "drawable_circle_guild_badge_activateable_dark": -12058624
+    },
+    "raws": {}
+}
