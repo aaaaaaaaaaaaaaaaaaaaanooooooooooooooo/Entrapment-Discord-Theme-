@@ -5,10 +5,10 @@
         "version": "1.0.0"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Entrapment\/backgroundimg\/background.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/afieldoflilies\/Entrapment-Discord-Theme-\/main\/Entrapment\/backgroundimg\/backgroundwide.jpg"
     },
     "fonts": {
-        "*": "https:\/\/raw.githubusercontent.com\/aaaaaaaaaaaaaaaaaaaaanooooooooooooooo\/Entrapment-Discord-Theme-\/main\/Entrapment\/Alepo.otf"
+        "*": "https:\/\/raw.githubusercontent.com\/afieldoflilies\/Entrapment-Discord-Theme-\/main\/Entrapment\/fonts\/Alepo.otf"
     },
     "simple_colors": {
         "mention_highlight": 619380991,
